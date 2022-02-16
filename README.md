@@ -25,9 +25,9 @@ return "Python, Estruturas de Dados e ALgoritimos";<br>
 # 💞️<div>
 public static vois Main(string[] args)<br>
 {<br>
-Csharp.Collaborate();{<br>
-C.Collaborate();{<br>
-}{<br>
+Csharp.Collaborate();<br>
+C.Collaborate();<br>
+}<br>
 </div>
 <br>
 <!--# 📫<div>
