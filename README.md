@@ -8,6 +8,7 @@ string msg = **Console**.*ReadLine*();<br>
 }<br>
 </div>
 ...<br>
+
 # 👀<div>
 public static string Interesses()<br>
 {<br>
@@ -15,6 +16,7 @@ return "BI, SQL, JavaScript, WebDev, Hacking";<br>
 }<br>
 </div>
 <br>
+
 # 🌱<div>
 public static string AprndAtual()<br>
 {<br>
@@ -22,6 +24,7 @@ return "Python, Estruturas de Dados e ALgoritimos";<br>
 }<br>
 </div>
 <br>
+
 # 💞️<div>
 public static vois Main(string[] args)<br>
 {<br>
