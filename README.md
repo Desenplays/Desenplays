@@ -2,7 +2,7 @@
 # 👋<div>
 public static void Saudaçoes( )<br>
 {<br>
-**Console**.*WriteLine*(Olá, eu sou @Desenplays);<br>
+**Console**.*WriteLine*("Olá, eu sou @Desenplays");<br>
 string msg = **Console**.*ReadLine*();<br>
 (msg == "Olá, Bom dia") ? "Bom dia" : "Bom dia?";<br>
 }<br>
