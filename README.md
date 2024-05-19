@@ -26,7 +26,7 @@ return "Python, Estruturas de Dados e ALgoritimos";<br>
 <br>
 
 # 💞️<div>
-public static vois Main(string[] args)<br>
+public static voidMain(string[] args)<br>
 {<br>
 **Csharp**.*Collaborate*();<br>
 **C**.*Collaborate*();<br>
