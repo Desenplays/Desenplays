@@ -12,7 +12,7 @@
 
 ### Minha história
 
-Nasci no interior de Goiás, minha mãe, a minha responsável que ficou com a minha custódia por mais tempo,
+Nasci no interior de Goiás, minha mãe, a minha responsável que ficou com a minha "custódia" por mais tempo,
 viajava muito então não criava muitas raízes nas cidades em que morava, em razão disso e de outros motivos,
 me fechei muito durante toda minha infância e adolescência e não fiz muitos amigos.
 > *Tenho dificuldade em socialização*
