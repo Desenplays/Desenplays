@@ -21,7 +21,7 @@ me fechei muito durante toda minha infância e adolescência e não fiz muitos a
 Tive algumas dificuldades nos estudos que já era notável desde o ínicio do primário, mas se agravou em 2020,
 com a pandemia ainda mais, devido a uma mudança de estilo de vida muito brusca e indesejada que ocorreu sem,
 eu querer...
-> *Autos e baixos ocorreram e ainda resta muito receio e angústia
+> *Autos e baixos ocorreram e ainda resta muito receio e angústia dessa época
 ---
 
 Lá por 2022 entrei em uma escola estadual e fiquei lá até o final do meu ensino médio. Por mais que eu tenha
