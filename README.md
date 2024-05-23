@@ -4,7 +4,7 @@
 ---
 
 - Me chamo **Raphael** e sou dono dessa *página do github*
-- Estou super animado em aprender a me fazer na internet (não por fama ou dinheiro, mas pelo felicidade de fazer)
+- Estou super animado em aprender a me fazer na internet (pouco por fama ou dinheiro, mas mais pelo felicidade de fazer)
 - Sou meio lerdo então paciência
 - Gosto muito de matemática e computação, por mais que por muitos deixo a desejar pelas minhas fraquezas
 - Gosto de doces
