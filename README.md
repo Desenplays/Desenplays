@@ -21,14 +21,14 @@ me fechei muito durante toda minha infância e adolescência e não fiz muitos a
 Tive algumas dificuldades nos estudos que já era notável desde o ínicio do primário, mas se agravou em 2020,
 com a pandemia ainda mais, devido a uma mudança de estilo de vida muito brusca e indesejada que ocorreu sem,
 eu querer...
-> *Autos e baixos ocorreram e ainda resta muito receio e angústia dessa época
+> *Autos e baixos ocorreram e ainda resta muito receio e angústia dessa época*
 ---
 
 Lá por 2022 entrei em uma escola estadual e fiquei lá até o final do meu ensino médio. Por mais que eu tenha
 tido a chance de participar de muitas competições e olimpíadas nessa época, a única coisa que conquistei foi
 uma medalha de prata na *MOBFOG* ( Mostra Nacional de Foguetes ), mas devo adimitir que foi mais por causa
 dos meus companheiros de equipe que eram muito mais espertos que eu...
-> *Sinto que deveria ter feito mais
+> *Sinto que deveria ter feito mais*
 ---
 
 Agora chegamos à atualidade, onde estou me esforçando muito para conseguir uma boa nota no ENEM e passar para
